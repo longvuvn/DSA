@@ -15,7 +15,7 @@
 
 ```mermaid
 flowchart LR
-  A[O(1)] --> B[O(log n)] --> C[O(n)] --> D[O(n log n)] --> E[O(n^2)] --> F[O(2^n)]
+  A["O(1)"] --> B["O(log n)"] --> C["O(n)"] --> D["O(n log n)"] --> E["O(n²)"] --> F["O(2^n)"]
 ```
 
 ## Bảng độ phức tạp phổ biến

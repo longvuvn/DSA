@@ -14,7 +14,7 @@
 
 ```mermaid
 flowchart TB
-  A[Call f(3)] --> B[Call f(2)] --> C[Call f(1)] --> D[Base case]
+  A["Call f(3)"] --> B["Call f(2)"] --> C["Call f(1)"] --> D[Base case]
 ```
 
 ## Ghi nhớ
